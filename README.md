@@ -1,1 +1,1 @@
-# news-summarizer
+lab-vite
